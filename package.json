@@ -1,0 +1,26 @@
+{
+  "name": "assign_06",
+  "version": "0.0.0",
+  "description": "HTTP REST API for CRUD operation without ExpressJS framework.",
+  "main": "httpServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NileshPharande/assign_06.git"
+  },
+  "keywords": [
+    "CRUD",
+    "operations",
+    "on",
+    "student",
+    "record."
+  ],
+  "author": "nileshPharande",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NileshPharande/assign_06/issues"
+  },
+  "homepage": "https://github.com/NileshPharande/assign_06#readme"
+}

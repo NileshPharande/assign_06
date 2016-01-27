@@ -1,0 +1,19 @@
+{
+    "subjectId": 1,
+    "subjectName": "Subject No_01",
+    "enrolledStudents": 
+    [
+        {
+            "id": 121,
+            "score": 345
+        },
+        {
+            "id": 122,
+            "score": 325
+        },
+        {
+            "id": 123,
+            "score": 200
+        }
+    ]
+}
